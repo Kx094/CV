@@ -1,0 +1,51 @@
+ {
+    "experiencia": [
+        {
+            "empresa": "Proyecto Independiente",
+            "rol": "Desarrollador BackEnd",
+            "periodo": "2025 - 2025",
+            "descripcion": "Encargado del desarrollo del lado del servidor, desarrollo de endpoints REST y modelado de BD en MySQL."
+        },
+        {
+            "empresa": "AstraZeneca",
+            "rol": "Desarrollador BackEnd",
+            "periodo": "2023 - 2023",
+            "descripcion": "Encargado del desarrollo del lado del servidor para un proyecto de Hackathon con track de AstraZeneca."
+        },
+        {
+            "empresa": "Cafe Madero",
+            "rol": "Diseñador de Base de Datos",
+            "periodo": "2023 - 2023",
+            "descripcion": "Diseño de la base de datos para un sistema de ventas y gestión de invetarios."
+        }
+    ],
+    "formacion": [
+        {
+            "titulo": "Ingeniería en Sistemas Computacionales",
+            "institucion": "Universidad Autonoma de Campeche",
+            "periodo": "2021 - 2025"
+        },
+        {
+            "titulo": "Oracle Next Education F2 T5 Back-end",
+            "institucion": "Oracle + Alura latam",
+            "periodo": "2023 - 2023"
+        }
+    ],
+    "certificados": [
+        {
+            "nombre": "Oracle Next Education F2 T5 Back-end",
+            "institucion": "Oracle + Alura latam",
+            "url": "static/certificados/Kevin de Jesús Saravia Caceres - Programa -.pdf"
+        },
+        {
+            "nombre": "Administrador de Linux",
+            "institucion": "Udemy",
+            "url": "static/certificados/certificado linux.jpg"
+        },
+        {
+            "nombre": "Participación en el Hackathon 2024",
+            "institucion": "Talent Network",
+            "url": "static/certificados/CertificadoParticipante_Kevin J. Saravia Cáceres.pdf"
+        }
+    ]
+}
