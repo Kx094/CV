@@ -1,6 +1,12 @@
  {
     "experiencia": [
         {
+            "empresa": "Consejo Estatal de Seguridad Pública",
+            "rol": "Practicas Profesionales | Desarrollador Jr.",
+            "periodo": "2025 - 2026",
+            "descripcion": "Colaboración del desarrollo del lado del servidor, desarrollo de endpoints REST y modelado de BD en SQLServer."
+        },
+        {
             "empresa": "Proyecto Independiente",
             "rol": "Desarrollador BackEnd",
             "periodo": "2025 - 2025",
@@ -46,6 +52,16 @@
             "nombre": "Participación en el Hackathon 2024",
             "institucion": "Talent Network",
             "url": "static/certificados/CertificadoParticipante_Kevin J. Saravia Cáceres.pdf"
+        },
+        {
+            "nombre": "Inmersión agentes de IA",
+            "institucion": "Alura latam",
+            "url": "static/certificados/Certificado Inmersión agentes de IA.pdf"
+        },
+        {
+            "nombre": "Python Total",
+            "institucion": "Udemy",
+            "url": "static/certificados/Python Total.jpg"
         }
     ]
 }
