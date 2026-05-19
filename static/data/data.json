@@ -2,27 +2,27 @@
     "experiencia": [
         {
             "empresa": "Consejo Estatal de Seguridad Pública",
-            "rol": "Practicas Profesionales | Desarrollador Jr.",
+            "rol": "Practicas Profesionales | Desarrollador Backend Jr.",
             "periodo": "2025 - 2026",
-            "descripcion": "Colaboración del desarrollo del lado del servidor, desarrollo de endpoints REST y modelado de BD en SQLServer."
+            "descripcion": "Participé en el desarrollo de una API REST para la sincronización de BD, realizando pruebas y correcciones, así como el mantenimiento del proyecto actualizando el framework Laravel 8 a Laravel 12, lo que permitió una migración adecuada y consistente de una base de datos a otra, así como una optimización en la seguridad del sistema."
         },
         {
             "empresa": "Proyecto Independiente",
-            "rol": "Desarrollador BackEnd",
+            "rol": "Desarrollador BackEnd Jr",
             "periodo": "2025 - 2025",
-            "descripcion": "Encargado del desarrollo del lado del servidor, desarrollo de endpoints REST y modelado de BD en MySQL."
+            "descripcion": "Ayudé en la creación de una aplicación web para el monitoreo médico en diversas granjas, desarrollando una API REST para la gestión de los animales junto a la generación de reportes en formatos de excel y pdf, usando librerías de python como pandas y matplotlib junto al framework Flask, resultando en una optimización del 35% en el monitoreo médico de dichos animales."
         },
         {
             "empresa": "AstraZeneca",
-            "rol": "Desarrollador BackEnd",
+            "rol": "Desarrollador BackEnd jr | Participación de Hackathon",
             "periodo": "2023 - 2023",
-            "descripcion": "Encargado del desarrollo del lado del servidor para un proyecto de Hackathon con track de AstraZeneca."
+            "descripcion": "Participé en el desarrollo de un aplicación web para realizar recorridos virtuales de las instalaciones de la empresa desarrollando API REST para la manipulación y movimiento dinamico del recorrido digital. Provocando una optimización en la capacitación de nuevos empleados para la empresa"
         },
         {
             "empresa": "Cafe Madero",
             "rol": "Diseñador de Base de Datos",
             "periodo": "2023 - 2023",
-            "descripcion": "Diseño de la base de datos para un sistema de ventas y gestión de invetarios."
+            "descripcion": "Colaboré en el desarrollo de un sistema de gestión de ventas e inventario al diseñar y normalizar una base de datos relacional, lo que resultó en un aumento en la eficiencia de ventas y optimización del inventario"
         }
     ],
     "formacion": [
